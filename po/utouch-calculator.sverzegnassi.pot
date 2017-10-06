@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: utouch-calculator.sverzegnassi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-06 07:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/calculator.cpp:79 ../src/calculator.cpp:261
+msgid "."
+msgstr ""
+
+#: ../src/calculator.cpp:80
+msgid "Â±"
+msgstr ""
+
+#: ../src/calculator.cpp:82
+msgid "Backspace"
+msgstr ""
+
+#: ../src/calculator.cpp:83
+msgid "Clear"
+msgstr ""
+
+#: ../src/calculator.cpp:84
+msgid "Clear All"
+msgstr ""
+
+#: ../src/calculator.cpp:86
+msgid "MC"
+msgstr ""
+
+#: ../src/calculator.cpp:87
+msgid "MR"
+msgstr ""
+
+#: ../src/calculator.cpp:88
+msgid "MS"
+msgstr ""
+
+#: ../src/calculator.cpp:89
+msgid "M+"
+msgstr ""
+
+#: ../src/calculator.cpp:91 ../src/calculator.cpp:354
+msgid "Ã·"
+msgstr ""
+
+#: ../src/calculator.cpp:92 ../src/calculator.cpp:352
+msgid "Ã"
+msgstr ""
+
+#: ../src/calculator.cpp:93 ../src/calculator.cpp:271
+#: ../src/calculator.cpp:350
+msgid "-"
+msgstr ""
+
+#: ../src/calculator.cpp:94 ../src/calculator.cpp:348
+msgid "+"
+msgstr ""
+
+#: ../src/calculator.cpp:96 ../src/calculator.cpp:158
+msgid "Sqrt"
+msgstr ""
+
+#: ../src/calculator.cpp:97 ../src/calculator.cpp:164
+msgid "xÂ²"
+msgstr ""
+
+#: ../src/calculator.cpp:98 ../src/calculator.cpp:166
+msgid "1/x"
+msgstr ""
+
+#: ../src/calculator.cpp:99
+msgid "="
+msgstr ""
+
+#: ../src/calculator.cpp:134
+msgid "Calculator"
+msgstr ""
+
+#: ../src/calculator.cpp:343
+msgid "####"
+msgstr ""
+
+#: utouch-calculator.desktop.in.h:1
+msgid "utouch-calculator"
+msgstr ""

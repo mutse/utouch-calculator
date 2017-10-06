@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=utouch-calculator
+Exec=utouch-calculator
+Icon=utouch-calculator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
